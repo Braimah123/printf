@@ -98,6 +98,5 @@
 * contains functions to get width for spcifics spcifiers.
 
 **writee_handlers.c**
-* contains write functions.
-
-By  Israel Braimah and Geoffrey Agwata
+* contains write functions
+By  Israel Braimah and Geoffrey Agwata..
